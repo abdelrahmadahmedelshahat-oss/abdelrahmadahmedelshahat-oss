@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e0266e-0f03-42e2-a379-338810b30ef1.gif" href="https://github.com/abdelrahmanahmedelshahat-oss" alt="Hacker Boy" width="60%"/> <br>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" href="https://github.com/abdelrahmanahmedelshahat-oss" alt="Cybersecurity" width="40%"/><br>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Hacker Boy Coding" width="60%"/> <br>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Cybersecurity" width="40%"/><br>
 
 # Hi, I'm Abdelrahman Ahmed Elshahat 👋
 
