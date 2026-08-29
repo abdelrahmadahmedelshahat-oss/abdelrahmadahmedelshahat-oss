@@ -1,38 +1,37 @@
-<div align="center">
+<div align="center" width="50">
 
-<!-- Cybersecurity / Hacker GIF -->
-<img
-  src="YOUR_CYBERSECURITY_HACKER_GIF_URL"
-  alt="Cybersecurity Hacker"
-  width="65%"
-/>
-
-<br>
-
-<!-- Personal Cybersecurity Banner -->
-<img
-  src="YOUR_PERSONAL_CYBERSECURITY_IMAGE_URL"
-  alt="Abdelrahman - Cybersecurity Journey"
-  width="45%"
-/>
-
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e0266e-0f03-42e2-a379-338810b30ef1.gif" href="https://github.com/abdelrahmanahmedelshahat-oss" alt="Hacker Boy" width="60%"/> <br>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" href="https://github.com/abdelrahmanahmedelshahat-oss" alt="Cybersecurity" width="40%"/><br>
 
 # Hi, I'm Abdelrahman Ahmed Elshahat 👋
 
-### 🔐 Cybersecurity Learner | C++ Developer | Linux Enthusiast
+**Cybersecurity Learner | C++ & Data Structures | Linux Enthusiast**
 
-<p>
-  Building my foundation in programming, Linux, networking and cybersecurity.
-  <br>
-  Learning step by step and turning what I learn into practical projects.
-</p>
+<details>
+<p><strong> <summary> Currently learning & building : </summary> </strong></p>
+
+🔐 On my way to becoming a Cybersecurity Analyst — building the fundamentals first, the right way.
+
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=abdelrahmanahmedelshahat-oss&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdelrahmanahmedelshahat-oss&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Contact-Telegram-grey?style=flat&logo=telegram)](https://t.me/abdelrahmanahmedelshahat)
 
 </div>
 
----
+<hr></hr>
 
-## 🧑‍💻 About Me
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-3776AB?style=flat&logo=cplusplus&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=flat&logo=unrealengine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
 
 ```cpp
 // about_me.cpp
@@ -43,54 +42,27 @@
 
 class Me {
 private:
-
     std::string name = "Abdelrahman Ahmed Elshahat";
-
-    std::vector<std::string> skills = {
-        "C++",
-        "OOP",
-        "Data Structures",
-        "Linux Basics",
-        "Git & GitHub"
+    std::vector<std::string> currentSkills = {
+        "C++", "OOP", "Data Structures", "Linux Basics"
     };
-
-    std::vector<std::string> currentlyLearning = {
-        "Networking",
-        "Linux",
-        "Cybersecurity Fundamentals",
-        "Bash",
-        "SQL",
-        "TryHackMe"
+    std::vector<std::string> learningPath = {
+        "Networking", "Linux (Advanced)", "SQL Basics",
+        "Cybersecurity Fundamentals", "TryHackMe"
     };
-
-    std::string goal =
-        "Build a strong foundation in Cybersecurity";
+    std::string goal = "Cybersecurity Analyst";
 
 public:
-
     void introduce() {
-
-        std::cout
-            << "Hi, I'm " << name << "\n\n";
-
-        std::cout
-            << "I'm building my technical foundation "
-            << "through C++, Linux and Cybersecurity.\n";
-
-        std::cout
-            << "I believe in learning the fundamentals "
-            << "before moving to advanced topics.\n";
-
-        std::cout
-            << "Goal: " << goal << " 🔐\n";
+        std::cout << "Hi, I'm " << name << std::endl;
+        std::cout << "Currently mastering the fundamentals," << std::endl;
+        std::cout << "one Data Structure at a time." << std::endl;
+        std::cout << "Goal: " << goal << " 🔐" << std::endl;
     }
 };
 
 int main() {
-
     Me abdelrahman;
-
     abdelrahman.introduce();
-
     return 0;
 }
