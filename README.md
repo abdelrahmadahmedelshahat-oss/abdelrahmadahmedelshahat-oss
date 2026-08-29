@@ -1,69 +1,71 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://media.giphy.com/media/Q8TfS3L9s340e4f20g/giphy.gif" alt="Hacker Boy" width="60%"/> <br>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cybersecurity" width="40%"/><br>
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/hacker-illustration-download-in-svg-png-gif-file-formats--cyber-crime-security-attack-pack-crime-illustrations-4382903.png" width="300px" alt="Hacker Illustration"/> <br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80px" alt="Bot"/>
 
 # Hi, I'm Abdelrahman Ahmed Elshahat 👋
-
 **Cybersecurity Learner | C++ & Data Structures | Linux Enthusiast**
-
-<details>
-<p><strong> <summary> Currently learning & building : </summary> </strong></p>
-
-🔐 On my way to becoming a Cybersecurity Analyst — building the fundamentals first, the right way.
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=abdelrahmanahmedelshahat-oss&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdelrahmanahmedelshahat-oss&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Contact-Telegram-grey?style=flat&logo=telegram)](https://t.me/abdelrahmanahmedelshahat)
 
 </div>
 
-<hr></hr>
+<br>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
+<!-- GitHub Table Card Simulation -->
+<table>
+<tr>
+<td>
 
-```cpp
-// about_me.cpp
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="80" alt="Penguin" />
 
-#include <iostream>
-#include <vector>
-#include <string>
+### 👤 Abdelrahman Ahmed Elshahat
+**Cybersecurity Learner | C++ & Data Structures | Linux Enthusiast**
 
-class Me {
-private:
-    std::string name = "Abdelrahman Ahmed Elshahat";
-    std::vector<std::string> currentSkills = {
-        "C++", "C", "OOP", "Data Structures", "Linux Basics"
-    };
-    std::vector<std::string> learningPath = {
-        "Networking", "Linux (Advanced)", "Wireshark",
-        "Cybersecurity Fundamentals", "TryHackMe"
-    };
-    std::string goal = "Cybersecurity Analyst";
+![Security](https://img.shields.io/badge/%F0%9F%94%90%20Security-101415?style=flat-square) 
+![C++](https://img.shields.io/badge/C%2B%2B-101415?style=flat-square&logo=c%2B%2B&logoColor=00599C) 
+![Linux](https://img.shields.io/badge/%F0%9F%90%A7%20Linux-101415?style=flat-square)
 
-public:
-    void introduce() {
-        std::cout << "Hi, I'm " << name << std::endl;
-        std::cout << "Currently mastering the fundamentals," << std::endl;
-        std::cout << "one Data Structure at a time." << std::endl;
-        std::cout << "Goal: " << goal << " 🔐" << std::endl;
-    }
-};
+---
 
-int main() {
-    Me abdelrahman;
-    abdelrahman.introduce();
-    return 0;
-}
+- 🎓 I'm currently learning **Cybersecurity & Data Structures**.
+- 🐧 I like exploring **GNU/Linux**.
+- 💬 Ask me about **PC building, Movies, or anything**.
+- 📬 Find me on Telegram: **[@abdelrahmanahmedelshahat](https://t.me/abdelrahmanahmedelshahat)**
+- ⚡ Fun fact: Banging your head against a wall for one hour burns **150 calories**.
+
+<br>
+
+<table border="0">
+<tr>
+<td width="50%" align="center">
+<b>📊 Top Languages by Repo</b><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanahmedelshahat-oss&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
+</td>
+<td width="50%" align="center">
+<b>🔥 Top Languages by Commit</b><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahmanahmedelshahat-oss&layout=donut&theme=tokyonight&hide_border=true&title_color=F97316" width="100%" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<br>
+<details>
+  <summary><b>▶ More stats</b></summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahmanahmedelshahat-oss&show_icons=true&theme=tokyonight&hide_border=true" width="90%" />
+</details>
+
+<hr>
+
+**Code Cycle**<br><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="40" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="40" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" width="40" />
+</div>
+
+</td>
+</tr>
+</table>
