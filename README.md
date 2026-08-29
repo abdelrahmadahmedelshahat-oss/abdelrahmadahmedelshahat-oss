@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1>Hi, I'm Abdelrahman Ahmed Elshahat 👋</h1>
-<h3>CS Student | SOC & Cybersecurity Explorer | Networking & Linux Specialist</h3>
+<h3>CS Student | Cybersecurity Explorer | Networking & Linux Specialist</h3>
 
 <br>
 
-<!-- صورة احترافية تعبر عن مركز عمليات الأمن السيبراني SOC -->
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80" alt="SOC Cybersecurity Center" width="75%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"/> 
+<!-- صورة متحركة تعبر عن الـ Cybersecurity & SOC Monitoring -->
+<img src="https://media.giphy.com/media/u44k7zThO90S30w6X0/giphy.gif" alt="Cybersecurity Monitoring" width="75%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.6);"/> 
 
 <br><br>
 
@@ -21,7 +21,6 @@
 <br>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-555C69?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -42,8 +41,8 @@ private:
 
 public:
     struct Portfolio {
-        std::vector<std::string> programming = {"C++ (OOP & Data Structures)", "Python", "Bash Scripting"};
-        std::vector<std::string> os_and_tools = {"Kali Linux", "Ubuntu", "VMware Workstation", "Cisco Packet Tracer"};
-        std::vector<std::string> current_focus = {"SOC Analysis", "Network Security", "Linux System Administration"};
+        std::vector<std::string> programming = {"C++ (Fundamentals & OOP)", "Bash Scripting"};
+        std::vector<std::string> os_and_tools = {"GNU/Linux", "Kali Linux", "VMware Workstation", "Cisco Packet Tracer"};
+        std::vector<std::string> current_focus = {"Cisco Networking", "Linux Systems", "Cybersecurity Fundamentals"};
     };
 };
