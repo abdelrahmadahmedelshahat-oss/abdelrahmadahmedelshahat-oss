@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://media.giphy.com/media/Q8TfS3L9s340e4f20g/giphy.gif" alt="Hacker Boy" width="60%"/> <br>
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Cybersecurity" width="40%"/><br>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cybersecurity" width="40%"/><br>
 
 # Hi, I'm Abdelrahman Ahmed Elshahat 👋
 
