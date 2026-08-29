@@ -1,200 +1,42 @@
-<div align="center">
+<div align="center" width="50">
 
-# 👋 Hello, I'm Abdelrahman Ahmed Elshahat
+<h1>Hi, I'm Abdelrahman Ahmed Elshahat 👋</h1>
+<h3>CS Student | Cybersecurity Enthusiast | Networking & Linux Explorer</h3>
 
-### 💻 C++ Developer | 🐧 Linux Learner | 🔐 Cybersecurity Student
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-I'm currently building my foundations in **Cybersecurity** after studying **C++ Programming, OOP, and Linux Fundamentals**.
-
-I enjoy learning by practicing, solving problems, and building projects while continuously improving my technical skills.
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat\&color=orange\&label=PROFILE+VIEWS)
-
+![Totals Hits](https://komarev.com/ghpvc/?username=abdelrahmanahmedelshahat-oss&style=flat&color=orange&label=PROFILE+VIEWS)
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-* 🔐 Currently learning **Cybersecurity**
-* 💻 Strong foundation in **C++**
-* 🧩 Studied **Object-Oriented Programming (OOP)**
-* 🐧 Studied **Linux Fundamentals**
-* 🧠 Interested in **Cybersecurity, Linux, Networking & Programming**
-* 🛠️ I learn by combining **theory + hands-on practice**
-* 🚀 Currently building my cybersecurity knowledge step by step
-
----
-
-## 🛠️ Technologies & Tools
-
-### 💻 Programming
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white)
-
-### 🐧 Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat\&logo=linux\&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat\&logo=windows\&logoColor=white)
-
-### 🔐 Cybersecurity
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000.svg?style=flat\&logo=hackthebox\&logoColor=white)
-
-Currently exploring:
-
-* 🔹 Linux & Command Line
-* 🔹 Networking Fundamentals
-* 🔹 Cybersecurity Fundamentals
-* 🔹 Security Concepts
-* 🔹 Hands-on Security Labs
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-E44C30.svg?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=flat\&logo=gnu-bash\&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-```text
-Cybersecurity
-     │
-     ├── Linux Fundamentals ✅
-     │
-     ├── C++ Fundamentals ✅
-     │
-     ├── Object-Oriented Programming ✅
-     │
-     ├── Networking 🔄
-     │
-     ├── Cybersecurity Fundamentals 🔄
-     │
-     └── Hands-on Security Labs 🔄
-```
-
----
-
-## 🎯 My Cybersecurity Journey
-
-I'm currently starting my journey into **Cybersecurity**, focusing first on building strong fundamentals rather than rushing into advanced topics.
-
-My goal is to understand how systems work, how they can be secured, and eventually develop practical cybersecurity skills through continuous learning and hands-on labs.
-
----
-
-## 💻 Programming Background
-
-My current programming foundation is mainly **C++**.
-
-I've studied:
-
-* Variables & Data Types
-* Conditions
-* Loops
-* Functions
-* Arrays
-* Strings
-* Vectors
-* Basic Algorithms
-* Object-Oriented Programming
-* Classes & Objects
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-
-I'm continuing to use programming as a foundation for understanding computer systems and cybersecurity.
-
----
-
-## 🐧 Linux
-
-I've studied the fundamentals of **GNU/Linux** and I'm continuing to improve my command-line skills.
-
-Areas I'm working with:
-
-* File System
-* Files & Directories
-* Permissions
-* Users & Groups
-* Processes
-* Basic Shell Commands
-* Bash
-* Package Management
-* Command-Line Utilities
-
----
-
-## 📂 Projects & Practice
-
-I'm currently building my GitHub around:
-
-* 💻 C++ Projects
-* 🐧 Linux Practice
-* 🔐 Cybersecurity Labs
-* 📝 Learning Notes
-* 🧪 Hands-on Security Exercises
-
-More projects will be added as I progress through my cybersecurity journey.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="40%"/>
-
-</a>
-
-</div>
-
----
-
-## ⚡ Code Cycle
-
-<div align="center">
-
-🧠 Learn
-
-⬇️
-
-💻 Code
-
-⬇️
-
-🐛 Break Something
-
-⬇️
-
-🔎 Debug
-
-⬇️
-
-✅ Understand
-
-⬇️
-
-🚀 Build Again
-
-</div>
-
----
-
-<div align="center">
-
-### 🔐 Learning Cybersecurity. One step at a time.
-
-**C++ → OOP → Linux → Cybersecurity → ???**
-
-</div>
+<hr></hr>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack%20%26%20Tools-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-555C69?style=flat&logo=kali-linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+```cpp
+// About_Me.cpp
+
+class Developer {
+private:
+    std::string name = "Abdelrahman Ahmed Elshahat";
+    std::string status = "Computer Science Student";
+public:
+    struct Skills {
+        std::vector<std::string> languages = {"C++ (Fundamentals & OOP)", "Python", "Bash", "SQL"};
+        std::vector<std::string> os = {"GNU/Linux", "Kali Linux", "Windows"};
+        std::vector<std::string> tools = {"VS Code", "VMware", "Cisco Packet Tracer", "Git & GitHub"};
+        std::vector<std::string> current_focus = {"Cybersecurity Fundamentals", "Cisco Networking", "Linux Admin & Automation"};
+    };
+};
