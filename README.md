@@ -32,6 +32,39 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=red)
+cpp
+// about_me.cpp
+
+#include <iostream>
+#include <vector>
+#include <string>
+
+class Me {
+private:
+    std::string name = "Abdelrahman Ahmed Elshahat";
+    std::vector<std::string> currentSkills = {
+        "C++", "OOP", "Data Structures", "Linux Basics"
+    };
+    std::vector<std::string> learningPath = {
+        "Networking", "Linux (Advanced)", "SQL Basics",
+        "Cybersecurity Fundamentals", "TryHackMe"
+    };
+    std::string goal = "Cybersecurity Analyst";
+
+public:
+    void introduce() {
+        std::cout << "Hi, I'm " << name << std::endl;
+        std::cout << "Currently mastering the fundamentals," << std::endl;
+        std::cout << "one Data Structure at a time." << std::endl;
+        std::cout << "Goal: " << goal << " 🔐" << std::endl;
+    }
+};
+
+int main() {
+    Me abdelrahman;
+    abdelrahman.introduce();
+    return 0;
+}
 -
 ```cpp
 
